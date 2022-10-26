@@ -1,6 +1,10 @@
-### Hi, Welcome To My Github Profile 👋 👋 👋
+<h1 align="center">Hi there, I'm Uygar Ozturk Ceylan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+%26+Backend+Dev;Managment+Information+System"></a>
+</p>
+<hr/>
 
-I'm Uygar, I'm currently working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects.  So, I also make cross platform applications with Flutter.
+I'm currently working on web development. I am sharing my projects here. I usually use the Vue and Spring Boot programming language for web projects. And nowadays I look at Node too.
 
 <h3 align="center">Connect with me:</h3>
 
