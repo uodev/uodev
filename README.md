@@ -4,7 +4,7 @@
 </p>
 <hr/>
 
-I'm currently working on web development. I am sharing my projects here. I usually use the Vue, React and NextJs programming language for web projects.
+I'm currently working on web development. I am sharing my projects here. I usually use the Vue, React, NextJs and NuxtJs for web projects. I'm learning Golang right now.
 
 <h3 align="center">Connect with me:</h3>
 
