@@ -4,7 +4,7 @@
 </p>
 <hr/>
 
-I'm currently working on web development. I am sharing my projects here. I usually use the Vue, React, NextJs and NuxtJs for web projects. I'm learning Golang right now.
+I'm currently working on web development. I am sharing my projects here. I usually use the Vue, React, NextJs for web projects.
 
 <h3 align="center">Connect with me:</h3>
 
@@ -15,7 +15,16 @@ I'm currently working on web development. I am sharing my projects here. I usual
 
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="React" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="NextJs" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349474/php.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a>
  </p>
 
 
